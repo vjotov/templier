@@ -1,4 +1,4 @@
-package com.jotov.templier.templier;
+package com.jotov.templier;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
